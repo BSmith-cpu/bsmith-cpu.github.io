@@ -1,5 +1,5 @@
 ---
-title: "Blitz Bearcat"
+title: "Brandon Smith"
 subtitle: "M.S. Data Science Candidate · Willamette University"
 image: images/profile.png
 about:
@@ -15,7 +15,7 @@ about:
       href: https://linkedin.com/in/your_github_username
     - icon: envelope
       text: Email
-      href: mailto:you@willamette.edu
+      href: mailto:bwsmith2@willamette.edu
     - icon: file-earmark-pdf
       text: Resume
       href: resume.qmd
