@@ -30,8 +30,8 @@ I care about \[topics you actually care about — e.g. housing, health equity,
 sports analytics\], reproducible workflows, and explaining a model to the person
 who has to trust it.
 
-**Currently looking for** \[data analyst / data scientist / ML engineer\] roles
-starting \[month year\]. [Get in touch](about.qmd) or grab my
+**Currently looking for** Data analyst and Data scientist  roles
+starting 09/2026. [Get in touch](about.qmd) or grab my
 [resume](resume.qmd).
 
 ---
@@ -47,13 +47,12 @@ Willamette University, 2026
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
 R · Python · SQL
-Quarto · Git · \[add yours\]
+Quarto · Git · Excel · Tableau · Power BI
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
 Salem, OR
-Open to \[remote / relocation\]
+Open to relocation & remote
 :::
 
-:::
