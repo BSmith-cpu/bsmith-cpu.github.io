@@ -14,12 +14,12 @@ should read this one. Replace every bracketed placeholder, then delete this note
 
 ## The one-liner
 
-> We integrated **\[Zillow home value, FHFA house-price data, census income data, and census poulation data\]** into **\[metro-level housing-risk dataset\]** so that
-> **\[pubilc officials\]** can **\[make decisions about housing affordability and risk\]**.
+> We integrated **Zillow home value, FHFA house-price data, census income data, and census poulation data** into **metro-level housing-risk dataset** so that
+> **pubilc officials** can **make decisions about housing affordability and risk**.
 
-**Role:** I led data cleaning, feature engineering, model training, creation of visualizations, and writing documentation.
-**Team:** Solo
-**Repo:** [https://github.com/BSmith-cpu/DATA-510-CAPSTONE-](https://github.com/BSmith-cpu/DATA-510-CAPSTONE-)
+* **Role:** I led data cleaning, feature engineering, model training, creation of visualizations, and writing documentation.
+* **Team:** Solo
+* **Repo:** [https://github.com/BSmith-cpu/DATA-510-CAPSTONE-](https://github.com/BSmith-cpu/DATA-510-CAPSTONE-)
 
 ## The question
 
@@ -49,18 +49,17 @@ showing that these cities are following the same trend as the training cities fo
 
 ## Findings
 
+![price_to_income_5yr_chg is the most important feature based on the result from Model 1.](projects/capstone/featured.png){fig-alt="Model 1 SHAP Importance" width="90%"}
 
-
-![We can see that price_to_income_5yr_chg is the most important feature based on the result from Model 1.](projects/capstone/featured.png){fig-alt="Model 1 SHAP Importance" width="90%"}
-
-State the finding in plain language, then the caveat. Sparse and true beats
-full and shaky.
+The five-year change in the price-to-income ratio was the strongest sign of current housing unaffordabilty.
+House price growth also mattered. The model was trained on only Austin, Boise, and Tampa, so it should be used to 
+identify cities for further review. 
 
 ## The full write-up
 
 [Download the write-up (PDF)](/Users/brandonsmith/bsmith-cpu.github.io/projects/capstone/writeup.pdf){.btn .btn-primary}
 
-<iframe src="/Users/brandonsmith/bsmith-cpu.github.io/projects/capstone/writeup.pdf" width="100%" height="800px"
+<iframe src="projects/capstone/writeup.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd;"></iframe>
 
 ## Dig deeper

@@ -9,12 +9,8 @@ about:
 
 ## Hi, I'm Brandon 👋
 
-The home page is the ten-second version. This is the longer story — write it in
-your own voice.
-
-I came to data science from \[your path: a major, a job, a question that would
-not leave you alone\]. What keeps me here is \[the part of the work you genuinely
-enjoy — the modeling, the wrangling, the moment a chart makes something click\].
+I came to data science from completeing my bachelors in business management falling involve with data analysis.
+What keeps me here is \[the part of the work you genuinely enjoy — the modeling, the wrangling, the moment a chart makes something click\].
 
 At Willamette my focus has been \[your emphasis: forecasting, causal inference,
 NLP, data engineering, ...\]. My [capstone](capstone.qmd) is where that comes
@@ -30,6 +26,7 @@ together.
 
 I'm happy to talk about \[data work, collaborations, roles\].
 
-- ✉️ [you@willamette.edu](mailto:bwsmith2@willamette.edu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/brandon-smith-msds/)
-- 💻 [GitHub](https://github.com/BSmith-CPU)
+- ✉️ [bwsmith2@willamtte.edu](mailto:bwsmith2@willamette.edu)
+- ✉️ [brandonwdsmith0@gmail.com](mailto:brandonwdsmith0@gmail.com)
+- 💼 [brandon-smith-msds](https://www.linkedin.com/in/brandon-smith-msds/)
+- 💻 [BSmith-CPU](https://github.com/BSmith-CPU)
