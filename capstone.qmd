@@ -1,6 +1,6 @@
 ---
-title: "Capstone: [Your Capstone Title]"
-subtitle: "A one-sentence hook: what you built and who it helps."
+title: "Capstone: Housing Unaffordability Indicators"
+subtitle: "This project uses machine learning to predict housing cost using property and location features."
 date: 2026-07-27
 image: projects/capstone/featured.svg
 categories: [capstone, machine-learning, R]
@@ -14,71 +14,56 @@ should read this one. Replace every bracketed placeholder, then delete this note
 
 ## The one-liner
 
-> We integrated **\[data sources\]** into **\[dataset\]** so that
-> **\[stakeholder\]** can **\[decision they can now make\]**.
+> We integrated **\[Zillow home value, FHFA house-price data, census income data, and census poulation data\]** into **\[metro-level housing-risk dataset\]** so that
+> **\[pubilc officials\]** can **\[make decisions about housing affordability and risk\]**.
 
-**Role:** \[e.g. I led the data pipeline and validation.\]
-**Team:** \[solo, or name + link teammates.\]
-**Repo:** [github.com/your_github_username/your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
+**Role:** I led data cleaning, feature engineering, model training, creation of visualizations, and writing documentation.
+**Team:** Solo
+**Repo:** [https://github.com/BSmith-cpu/DATA-510-CAPSTONE-](https://github.com/BSmith-cpu/DATA-510-CAPSTONE-)
 
 ## The question
 
-What problem were you solving, and why does it matter to a real stakeholder?
-Two or three sentences. No jargon a hiring manager would have to look up.
+Housing affordability can worsen quickly when home prices rise faster than 
+local income. I examined which housing-market and economic indicators are 
+most associate with unaffordable condition in the U.S. metro areas, and
+whether they can help flag metros for further investigation. 
+
 
 ## The data
 
-Where the data came from, how much of it, and the one hard thing about it
-(missingness, joins across sources, scale, privacy). This is your data
-engineering story — the part the repo link backs up.
+I combined Zillow Home Value Index data, FHFA House Price Index data, Census
+Median household income, and Census population estimate. The final dataset
+contains 83,699 rows and 25 columns of quarerly metro-area observation from 2010-2024.
+
+The main data-engineering challenge was joining sources reported at different time invervals.
+Most of the data was split into either monthly, quarterly, and annual. When that was normalized
+I joined them all through CBSA metro codes, while fix Tampa CBSA mismatch between Census and Zillow data
+before modeling. 
 
 ## The approach
 
-Your method at portfolio depth: shorter than your M4 write-up, longer than a
-tweet. What did you try, what did you keep, and why.
+I combined and cleaned the data, creating housing market features, and trained two XGBoost models. The
+first model was to anwser the primary research question of which features are most important when prediciting
+affordability stress for U.S. metros. The second was a generalized model, that would give each city a "risk-score"
+showing that these cities are following the same trend as the training cities for the models. 
 
 ## Findings
 
-Lead with your best figure or your architecture diagram.
 
-![Replace with your key result or system diagram.](projects/capstone/featured.svg){fig-alt="Placeholder capstone figure" width="90%"}
+
+![We can see that price_to_income_5yr_chg is the most important feature based on the result from Model 1.](projects/capstone/featured.png){fig-alt="Model 1 SHAP Importance" width="90%"}
 
 State the finding in plain language, then the caveat. Sparse and true beats
 full and shaky.
 
 ## The full write-up
 
-Pick the option that matches where your write-up lives, keep one, delete the rest.
+[Download the write-up (PDF)](/Users/brandonsmith/bsmith-cpu.github.io/projects/capstone/writeup.pdf){.btn .btn-primary}
 
-::: {.panel-tabset}
-
-### A · Native Quarto
-
-If your write-up is a `.qmd`, copy it into `projects/capstone/index.qmd` and
-link it, or fold its sections directly into this page. Set `eval: false` (or
-rely on `freeze`) on any chunk that needs data the public repo does not contain.
-
-### B · Embedded PDF
-
-```markdown
-[Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
-
-<iframe src="projects/capstone/writeup.pdf" width="100%" height="800px"
+<iframe src="/Users/brandonsmith/bsmith-cpu.github.io/projects/capstone/writeup.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd;"></iframe>
-```
-
-### C · Published Google Doc
-
-```markdown
-[Read the full write-up](https://docs.google.com/document/d/e/XXXX/pub){.btn .btn-primary}
-
-<iframe src="https://docs.google.com/document/d/e/XXXX/pub?embedded=true"
-  width="100%" height="800px" style="border: 1px solid #ddd;"></iframe>
-```
-
-:::
 
 ## Dig deeper
 
-- 📦 **Code & pipeline:** [your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
-- 📊 **Slides / poster:** \[link if you have one\]
+- 📦 **Code & pipeline:** [capstone-repo](https://github.com/BSmith-cpu/DATA-510-CAPSTONE-)
+- 📊 **Slides / poster:** [poster](https://docs.google.com/presentation/d/1No_l9EiWi_r4kYrxCpPAtVcqwnWA5FHVNq3AEqKWLQ0/edit)
