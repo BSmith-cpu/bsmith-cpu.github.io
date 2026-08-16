@@ -9,10 +9,10 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/your_github_username
+      href: https://github.com/BSmith-cpu
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/your_github_username
+      href: https://www.linkedin.com/in/brandon-smith-msds/
     - icon: envelope
       text: Email
       href: mailto:bwsmith2@willamette.edu
