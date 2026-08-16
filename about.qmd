@@ -10,21 +10,20 @@ about:
 ## Hi, I'm Brandon 👋
 
 I came to data science from completeing my bachelors in business management falling involve with data analysis.
-What keeps me here is \[the part of the work you genuinely enjoy — the modeling, the wrangling, the moment a chart makes something click\].
+What keeps me here is at the end of a massive project looking back and seeing what you were able to create from raw data files into a somehing anwsering a reserach question. 
 
-At Willamette my focus has been \[your emphasis: forecasting, causal inference,
-NLP, data engineering, ...\]. My [capstone](capstone.qmd) is where that comes
+At Willamette my focus has been forecasting and data engineering. My [capstone](capstone.qmd) is where that comes
 together.
 
 ### Beyond the terminal
 
-- 🌲 \[Something human — a hobby, a place, a cause.\]
-- 📚 \[Currently reading / learning / building.\]
-- 🎯 \[What you want to be doing in two years.\]
+- 🌲 Enjoy golfing and traveling to new places
+- 📚 Current reading *Mastery* by Robert Greene
+- 🎯 I want to be working in a data focuses role that has a positive impact for a business. 
 
 ### Get in touch
 
-I'm happy to talk about \[data work, collaborations, roles\].
+I'm happy to talk about any data projects or open data science/analyst roles. 
 
 - ✉️ [bwsmith2@willamtte.edu](mailto:bwsmith2@willamette.edu)
 - ✉️ [brandonwdsmith0@gmail.com](mailto:brandonwdsmith0@gmail.com)

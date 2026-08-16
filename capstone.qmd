@@ -7,11 +7,6 @@ categories: [capstone, machine-learning, R]
 toc: true
 ---
 
-::: {.callout-note appearance="simple"}
-This is the anchor of your portfolio. A hiring manager who reads only one page
-should read this one. Replace every bracketed placeholder, then delete this note.
-:::
-
 ## The one-liner
 
 > We integrated **Zillow home value, FHFA house-price data, census income data, and census poulation data** into **metro-level housing-risk dataset** so that
