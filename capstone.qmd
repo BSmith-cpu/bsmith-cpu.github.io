@@ -1,6 +1,6 @@
 ---
 title: "Capstone: Housing Unaffordability Indicators"
-subtitle: "This project uses machine learning to predict housing cost using property and location features."
+subtitle: "Seeing what features put the most stress on affordability for U.S. metros"
 date: 2026-07-27
 image: projects/capstone/featured.svg
 categories: [capstone, machine-learning, R]

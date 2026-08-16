@@ -5,11 +5,7 @@ toc: true
 
 [📄 Download PDF](assets/resume.pdf){.btn .btn-primary role="button"}
 
-::: {.callout-note appearance="simple"}
-Drop your typeset resume at `assets/resume.pdf` and it appears below. Any PDF
-works tonight — export from Word, Google Docs, or a `vitae`/LaTeX template. The
-web summary below is what recruiters skim; the PDF is what they download.
-:::
+
 
 <iframe src="assets/resume.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd; margin-top: 1rem;">
@@ -17,8 +13,8 @@ web summary below is what recruiters skim; the PDF is what they download.
 
 ## Education
 
-**M.S. Data Science** — Willamette University, Salem, OR *(2026)*
-**B.S. \[Your Major\]** — \[Your University\], \[City\] *(\[year\])*
+- **M.S. Data Science** — Willamette University, Salem, OR *2026*
+- **B.S. Business Management** — Eastern Washington University, Cheney, WA *2025*
 
 ## Skills
 
@@ -31,16 +27,16 @@ web summary below is what recruiters skim; the PDF is what they download.
 
 ## Experience
 
-**\[Job Title\]** — \[Organization\], \[Location\] *(\[dates\])*
+**FP&A Analyst Intern** — Tektronix | Beaveteron, OR | *June 2026 - August 2026*
 
-- Accomplishment framed as impact, not a task description.
-- Another accomplishment with a number in it if you have one.
+- Completed an analysis on a 120,000-row dataset, distilling complex findings into a concise, professional
+one-page summary presented to CFO-level leadership to support strategic decision-making
+- Analyzed reserve data to identify three key drivers of variance, presenting findings alongside three actionable
+recommendations—including one option projected to reduce reserves by $1M
 
 ## Projects
 
-**\[Capstone Title\]** — see the [Capstone page](capstone.qmd) for the full story.
+**Housing Unaffordability Indicators** — see the [Capstone page](capstone.qmd) for the full story.
 
-- One line on the problem and your role.
+- Seeing what features put the most stress on affordability on U.S. Metros - solo project
 
-*Placeholders in brackets are fine while you build. Replace them with real,
-defensible entries as they materialize — sparse and true beats full and shaky.*
