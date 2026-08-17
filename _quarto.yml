@@ -24,6 +24,8 @@ website:
         text: Resume
       - href: about.qmd
         text: About
+      - href: featured-project.qmd
+        text: Featured Project
       - icon: github
         href: https://github.com/BSmith-CPU
         aria-label: GitHub
