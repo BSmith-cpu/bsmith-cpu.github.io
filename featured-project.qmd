@@ -9,7 +9,7 @@ title: "Capstone Project Summary"
 I combined Zillow home values, FHFA house-price data, Census income data, and Census population to identify U.S. metro areas showing signs of housing unaffordability.
 
 - **Team:** Solo project
-- **My Role:** I cleaned and joined the data, built the data pipelines allowing for reproducability, created features, trained XGBoost models, analyzed result with SHAP, and created visualizations.
+- **My Role:** I cleaned and joined the data, built the data pipelines allowing for reporducability, created features, trained XGBoost models, analyzed result with SHAP, and created visualizations.
 
 
 # Github Links
