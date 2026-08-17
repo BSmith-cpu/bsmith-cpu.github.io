@@ -18,8 +18,8 @@ I combined Zillow home values, FHFA house-price data, Census income data, and Ce
 # Model 2 at-risk metro plots
 
 
-- [Github Repository]()
-- [Final Poster (PDF)]()
+- [Github Repository](https://github.com/BSmith-cpu/DATA-510-CAPSTONE-)
+- [Final Poster (PDF)](https://github.com/BSmith-cpu/DATA-510-CAPSTONE-/blob/main/deliverables/M14-Final%20Poster/BSmith%20Poster%20Final.pdf)
 - [Final Writeup (PDF)]()
 
 ## The project
