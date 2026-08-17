@@ -1,0 +1,9 @@
+---
+title: "Capstone Project Summary"
+---
+
+# Where Next? Predicting the Net Unaffordable U.S. City
+
+## Overview
+
+I combined Zillow home values, FHFA house-price data, Census income data, and Census population to identify U.S. metro areas showing signs of housing unaffordability.
