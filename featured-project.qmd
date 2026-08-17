@@ -34,7 +34,7 @@ Housing prices can rise faster than local incomes, making it harder for people t
 
 The five-year change is the price-to-income ratio was the strongest sign of current houing unaffordabilitying. House-price growth and longer-term price trends also mattered.
 
-The main model had a 907% accuracy and a 0.943 ROC-AUC when classifying current unaffordability in Austin, Boise, and Tampa
+The main model had a 90.7% accuracy and a 0.943 ROC-AUC when classifying current unaffordability in Austin, Boise, and Tampa
 
 - The mdoel identifies current affordability stress. It does not prove that a city will become unaffordable in the future.
 
