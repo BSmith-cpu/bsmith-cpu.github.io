@@ -9,8 +9,8 @@ about:
 
 ## Hi, I'm Brandon 👋
 
-I came to data science from completeing my bachelors in business management falling involve with data analysis.
-What keeps me here is at the end of a massive project looking back and seeing what you were able to create from raw data files into a somehing anwsering a reserach question. 
+I came to data science from completeing my bachelors in business management falling in love with data analysis.
+What keeps me here is at the end of a massive project looking back and seeing what you were able to create from raw data files into a something answering a reserach question. 
 
 At Willamette my focus has been forecasting and data engineering. My [capstone](capstone.qmd) is where that comes
 together.

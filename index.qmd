@@ -29,7 +29,7 @@ state officals and state housing authorities.
 I care about housing, finance, sport analytics, reproducible workflows, and explaining a model to the person
 who has to trust it.
 
-**Currently looking for** Data analyst and Data scientist  roles
+**Currently looking for** Data Analyst and Data Scientist roles
 starting 09/2026. [Get in touch](about.qmd) or grab my
 [resume](resume.qmd).
 
