@@ -21,8 +21,8 @@ toc: true
 | Area | Tools |
 |------|-------|
 | **Languages** | R, Python, SQL |
-| **Data & ML** | \[tidyverse / pandas, scikit-learn, ...\] |
-| **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
+| **Data & ML** | tidyverse, pandas, scikit-learn, plotly |
+| **Workflow** | Git, Quarto, Docker, Terminal, Beekeeper, Postgres |
 | **Communication** | Technical writing, data visualization |
 
 ## Experience
