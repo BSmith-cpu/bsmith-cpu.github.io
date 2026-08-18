@@ -52,7 +52,7 @@ identify cities for further review.
 
 ## The full write-up
 
-[Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
+[Download the write-up (PDF)](/Users/brandonsmith/bsmith-cpu.github.io/projects/capstone/writeup.pdf){.btn .btn-primary}
 
 <iframe src="projects/capstone/writeup.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd;"></iframe>
