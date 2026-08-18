@@ -15,7 +15,7 @@ I combined Zillow home values, FHFA house-price data, Census income data, and Ce
 # Github Links
 - [Github Repository](https://github.com/BSmith-cpu/DATA-510-CAPSTONE-)
 - [Final Poster (PDF)](https://github.com/BSmith-cpu/DATA-510-CAPSTONE-/blob/main/deliverables/M14-Final%20Poster/BSmith%20Poster%20Final.pdf)
-- [Final Writeup (PDF)]()
+- [Final Writeup (PDF)](https://github.com/BSmith-cpu/DATA-510-CAPSTONE-/blob/main/deliverables/M15-Final%20Writeup/writeup.pdf)
 
 
 # Model 1 SHAP plot
